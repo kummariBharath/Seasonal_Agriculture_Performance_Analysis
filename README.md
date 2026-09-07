@@ -777,7 +777,7 @@ Seasonal-Agriculture-Performance-Analysis/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Seasonal-Agriculture-Performance-Analysis.git
+git https://github.com/kummariBharath/Seasonal_Agriculture_Performance_Analysis/tree/main
 ```
 
 ## 2. Open the Notebook
@@ -785,7 +785,7 @@ git clone https://github.com/your-username/Seasonal-Agriculture-Performance-Anal
 Open:
 
 ```text
-Seasonal_Agriculture_Performance_Analysis.ipynb
+https://colab.research.google.com/drive/1DFaq-gbqOZsqWgLnm7jq58ML1oqCnj3i?usp=sharing
 ```
 
 using:
@@ -900,13 +900,4 @@ If you found this project interesting or useful, consider giving the repository 
 
 Thanks for checking out the project! 🌾📊
 
-```
-
-### One small professional touch, bro
-
-For GitHub, I'd **not use the giant amount of emojis everywhere** even though they look cool. The best README style is:
-
-**real tech logos + badges + clean headings + tables + a few section icons.**
-
-That gives you the **“student project, but damn this guy knows how to present a project”** look. 😎
 ```
